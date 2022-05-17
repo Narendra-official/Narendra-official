@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Narendra-official
 - 👀 I’m interested in _ android game devlopment
-- 🌱 I’m currently learning _ python
+- 🌱 I’m currently learning _ py
 - 📫 How to reach me _ nbrblog3@gmail.com
 
 <!---
